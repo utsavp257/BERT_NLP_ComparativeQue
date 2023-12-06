@@ -1,0 +1,1 @@
+This directory has the code notebooks used for this project. These were run on Google Colab consistently throughout the project. The details about the uses of all the notebooks are mentioned inside the notebooks as markdown cells.
