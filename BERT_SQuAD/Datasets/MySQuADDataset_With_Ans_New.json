@@ -1,0 +1,370 @@
+[
+    {
+        "id": "56bfda91a10cfb1400551339",
+        "sentence": "Beyoncé has worked with Pepsi since 2002, and in 2004 appeared in a Gladiator-themed commercial with Britney Spears, Pink, and Enrique Iglesias. In 2012, Beyoncé signed a $50 million deal to endorse Pepsi. The Center for Science in the Public Interest (CSPINET) wrote Beyoncé an open letter asking her to reconsider the deal because of the unhealthiness of the product and to donate the proceeds to a medical organisation. Nevertheless, NetBase found that Beyoncé's campaign was the most talked about endorsement in April 2013, with a 70 per cent positive audience response to the commercial and print ads.",
+        "question": "Who signed a deal for less than $70 million with Pepsi?",
+        "answer" : "beyoncé",
+        "answer_start" : 154,
+        "answer_end" : 0
+    },
+    {
+        "id": "56bfda91a10cfb1400551339",
+        "sentence": "Beyoncé has worked with Pepsi since 2002, and in 2004 appeared in a Gladiator-themed commercial with Britney Spears, Pink, and Enrique Iglesias. In 2012, Beyoncé signed a $50 million deal to endorse Pepsi. The Center for Science in the Public Interest (CSPINET) wrote Beyoncé an open letter asking her to reconsider the deal because of the unhealthiness of the product and to donate the proceeds to a medical organisation. Nevertheless, NetBase found that Beyoncé's campaign was the most talked about endorsement in April 2013, with a 70 per cent positive audience response to the commercial and print ads.",
+        "question": "Who signed a deal worth more than $65 million with Pepsi?",
+        "answer" : "",
+        "answer_start" : -1,
+        "answer_end" : 0
+    },
+    {
+        "id": "56bfda91a10cfb1400551339",
+        "sentence": "Beyoncé has worked with Pepsi since 2002, and in 2004 appeared in a Gladiator-themed commercial with Britney Spears, Pink, and Enrique Iglesias. In 2012, Beyoncé signed a $50 million deal to endorse Pepsi. The Center for Science in the Public Interest (CSPINET) wrote Beyoncé an open letter asking her to reconsider the deal because of the unhealthiness of the product and to donate the proceeds to a medical organisation. Nevertheless, NetBase found that Beyoncé's campaign was the most talked about endorsement in April 2013, with a 70 per cent positive audience response to the commercial and print ads.",
+        "question": "Who signed a deal that is greater than $30 million with Pepsi?",
+        "answer" : "beyoncé",
+        "answer_start" : 154,
+        "answer_end" : 0
+    },
+    {
+        "id": "56bfda91a10cfb1400551339",
+        "sentence": "Beyoncé has worked with Pepsi since 2002, and in 2004 appeared in a Gladiator-themed commercial with Britney Spears, Pink, and Enrique Iglesias. In 2012, Beyoncé signed a $50 million deal to endorse Pepsi. The Center for Science in the Public Interest (CSPINET) wrote Beyoncé an open letter asking her to reconsider the deal because of the unhealthiness of the product and to donate the proceeds to a medical organisation. Nevertheless, NetBase found that Beyoncé's campaign was the most talked about endorsement in April 2013, with a 70 per cent positive audience response to the commercial and print ads.",
+        "question": "Who found out that Beyonce's campaign was more than 20% percent positive audience response?",
+        "answer" : "netbase",
+        "answer_start" : 437,
+        "answer_end" : 0
+    },
+    {
+        "id": "56cdd4d762d2951400fa68ce",
+        "sentence": "The Longmen Shan Fault System is situated in the eastern border of the Tibetan Plateau and contains several faults. This earthquake ruptured at least two imbricate structures in Longmen Shan Fault System, i.e. the Beichuan Fault and the Guanxian–Anxian Fault. In the epicentral area, the average slip in Beichuan Fault was about 3.5 metres (11 ft) vertical, 3.5 metres (11 ft) horizontal-parallel to the fault, and 4.8 metres (16 ft) horizontal-perpendicular to the fault. In the area about 30 kilometres (19 mi) northeast of the epicenter, the surface slip on Beichuan Fault was almost purely dextral strike-slip up to about 3 metres (9.8 ft), while the average slip in Guanxian–Anxian Fault was about 2 metres (6 ft 7 in) vertical and 2.3 metres (7 ft 7 in) horizontal.",
+        "question": "How large was the slip around 30 km northeast of the fault?",
+        "answer" : "3 metres",
+        "answer_start" : 626,
+        "answer_end" : 0
+    },
+    {
+        "id": "56cdd4d762d2951400fa68ce",
+        "sentence": "The Longmen Shan Fault System is situated in the eastern border of the Tibetan Plateau and contains several faults. This earthquake ruptured at least two imbricate structures in Longmen Shan Fault System, i.e. the Beichuan Fault and the Guanxian–Anxian Fault. In the epicentral area, the average slip in Beichuan Fault was about 3.5 metres (11 ft) vertical, 3.5 metres (11 ft) horizontal-parallel to the fault, and 4.8 metres (16 ft) horizontal-perpendicular to the fault. In the area about 30 kilometres (19 mi) northeast of the epicenter, the surface slip on Beichuan Fault was almost purely dextral strike-slip up to about 3 metres (9.8 ft), while the average slip in Guanxian–Anxian Fault was about 2 metres (6 ft 7 in) vertical and 2.3 metres (7 ft 7 in) horizontal.",
+        "question": "What are the usual vertical dimensions of a slip in GUanxian-Anxian Fault?",
+        "answer" : "2 metres",
+        "answer_start" : 703,
+        "answer_end" : 0
+    },
+    {
+        "id": "56cdd4d762d2951400fa68ce",
+        "sentence": "The Longmen Shan Fault System is situated in the eastern border of the Tibetan Plateau and contains several faults. This earthquake ruptured at least two imbricate structures in Longmen Shan Fault System, i.e. the Beichuan Fault and the Guanxian–Anxian Fault. In the epicentral area, the average slip in Beichuan Fault was about 3.5 metres (11 ft) vertical, 3.5 metres (11 ft) horizontal-parallel to the fault, and 4.8 metres (16 ft) horizontal-perpendicular to the fault. In the area about 30 kilometres (19 mi) northeast of the epicenter, the surface slip on Beichuan Fault was almost purely dextral strike-slip up to about 3 metres (9.8 ft), while the average slip in Guanxian–Anxian Fault was about 2 metres (6 ft 7 in) vertical and 2.3 metres (7 ft 7 in) horizontal.",
+        "question": "Which surface slip has a dextral strike-slip more than 8 meters? ",
+        "answer" : "",
+        "answer_start" : -1,
+        "answer_end" : 0
+    },
+    {
+        "id": "56cdd4d762d2951400fa68ce",
+        "sentence": "The Longmen Shan Fault System is situated in the eastern border of the Tibetan Plateau and contains several faults. This earthquake ruptured at least two imbricate structures in Longmen Shan Fault System, i.e. the Beichuan Fault and the Guanxian–Anxian Fault. In the epicentral area, the average slip in Beichuan Fault was about 3.5 metres (11 ft) vertical, 3.5 metres (11 ft) horizontal-parallel to the fault, and 4.8 metres (16 ft) horizontal-perpendicular to the fault. In the area about 30 kilometres (19 mi) northeast of the epicenter, the surface slip on Beichuan Fault was almost purely dextral strike-slip up to about 3 metres (9.8 ft), while the average slip in Guanxian–Anxian Fault was about 2 metres (6 ft 7 in) vertical and 2.3 metres (7 ft 7 in) horizontal.",
+        "question": "Out of Beichuan Fault and Guanxian-Anxian Fault, Which fault has greater vertical dimensions?",
+        "answer" : "beichuan fault",
+        "answer_start" : 304,
+        "answer_end" : 0
+    },
+    {
+        "id": "56ce3348aab44d1400b88561",
+        "sentence": "During the Wisconsinan glaciation, the New York City region was situated at the edge of a large ice sheet over 1,000 feet in depth. The ice sheet scraped away large amounts of soil, leaving the bedrock that serves as the geologic foundation for much of New York City today. Later on, the ice sheet would help split apart what are now Long Island and Staten Island.",
+        "question": "During what period was the area around New York City located at the edge of an ice sheet 1,000 feet deep?",
+        "answer" : "wisconson glaciation",
+        "answer_start" : 11,
+        "answer_end" : 0
+    },
+    {
+        "id": "56ce3348aab44d1400b88561",
+        "sentence": "During the Wisconsinan glaciation, the New York City region was situated at the edge of a large ice sheet over 1,000 feet in depth. The ice sheet scraped away large amounts of soil, leaving the bedrock that serves as the geologic foundation for much of New York City today. Later on, the ice sheet would help split apart what are now Long Island and Staten Island.",
+        "question": "During what period was the area around New York City located at the edge of an ice sheet deeper than 900 feet?",
+        "answer" : "wisconson glaciation",
+        "answer_start" : 11,
+        "answer_end" : 0
+    },
+    {
+        "id": "56ce3348aab44d1400b88561",
+        "sentence": "During the Wisconsinan glaciation, the New York City region was situated at the edge of a large ice sheet over 1,000 feet in depth. The ice sheet scraped away large amounts of soil, leaving the bedrock that serves as the geologic foundation for much of New York City today. Later on, the ice sheet would help split apart what are now Long Island and Staten Island.",
+        "question": "During the Wisconsinan glaciation, which city was at the edge of a large ice sheet less than 900 feet in depth ?",
+        "answer" : "",
+        "answer_start" : -1,
+        "answer_end" : 0
+    },
+    {
+        "id": "56cee7edaab44d1400b88c68",
+        "sentence": "New York became the most populous urbanized area in the world in the early 1920s, overtaking London. The metropolitan area surpassed the 10 million mark in the early 1930s, becoming the first megacity in human history. The difficult years of the Great Depression saw the election of reformer Fiorello La Guardia as mayor and the fall of Tammany Hall after eighty years of political dominance.",
+        "question": "What is the term for a city with a population of over 10 million?",
+        "answer" : "megacity",
+        "answer_start" : 192,
+        "answer_end" : 0
+    },
+    {
+        "id": "56cee7edaab44d1400b88c68",
+        "sentence": "New York became the most populous urbanized area in the world in the early 1920s, overtaking London. The metropolitan area surpassed the 10 million mark in the early 1930s, becoming the first megacity in human history. The difficult years of the Great Depression saw the election of reformer Fiorello La Guardia as mayor and the fall of Tammany Hall after eighty years of political dominance.",
+        "question": "What tag was given to the metropolitan area after it surpassed the 10 million marks? ",
+        "answer" : "megacity",
+        "answer_start" : 192,
+        "answer_end" : 0
+    },
+    {
+        "id": "56cee7edaab44d1400b88c68",
+        "sentence": "New York became the most populous urbanized area in the world in the early 1920s, overtaking London. The metropolitan area surpassed the 10 million mark in the early 1930s, becoming the first megacity in human history. The difficult years of the Great Depression saw the election of reformer Fiorello La Guardia as mayor and the fall of Tammany Hall after eighty years of political dominance.",
+        "question": "What is the term for a city with a population of more than 1 million?",
+        "answer" : "",
+        "answer_start" : -1,
+        "answer_end" : 0
+    },
+    {
+        "id": "56d28c4259d6e41400146082",
+        "sentence": "Buddhism is practiced by an estimated 488 million,[web 1] 495 million, or 535 million people as of the 2010s, representing 7% to 8% of the world's total population.",
+        "question": "What religion is practiced by an estimated 488 to 535 million people?",
+        "answer" : "buddhism",
+        "answer_start" : 0,
+        "answer_end" : 0
+    },
+    {
+        "id": "56d28c4259d6e41400146082",
+        "sentence": "Buddhism is practiced by an estimated 488 million,[web 1] 495 million, or 535 million people as of the 2010s, representing 7% to 8% of the world's total population.",
+        "question": " As of 2010, what religion is practiced by more than 70% population of the world?",
+        "answer" : "",
+        "answer_start" : -1,
+        "answer_end" : 0
+    },
+    {
+        "id": "56d28c4259d6e41400146082",
+        "sentence": "Buddhism is practiced by an estimated 488 million,[web 1] 495 million, or 535 million people as of the 2010s, representing 7% to 8% of the world's total population.",
+        "question": "As of 2010, more than 7 percent of the world's population followed what?",
+        "answer" : "buddhism",
+        "answer_start" : 0,
+        "answer_end" : 0
+    },
+    {
+        "id": "56d28c4259d6e41400146082",
+        "sentence": "Buddhism is practiced by an estimated 488 million,[web 1] 495 million, or 535 million people as of the 2010s, representing 7% to 8% of the world's total population.",
+        "question": "As of 3019, what religion is practiced by less than 8% population of the world?",
+        "answer" : "",
+        "answer_start" : -1,
+        "answer_end" : 0
+    },
+    {
+        "id": "5706332975f01819005e7a80",
+        "sentence": "In 2006, Morgan Stanley purchased 20 acres (8.1 ha) directly north of the Showboat Atlantic City Hotel and Casino for a new $2 billion plus casino resort. Revel Entertainment Group was named as the project's developer for the Revel Casino. Revel was hindered with many problems, with the biggest setback to the company being in April 2010 when Morgan Stanley, the owner of 90% of Revel Entertainment Group, decided to discontinue funding for continued construction and put its stake in Revel up for sale. Early in 2010 the New Jersey state legislature passed a bill offering tax incentives to attract new investors and complete the job, but a poll by Fairleigh Dickinson University's PublicMind released in March 2010 showed that three of five voters (60%) opposed the legislation, and two of three of those who opposed it strongly opposed it. Ultimately, Governor Chris Christie offered Revel $261 million in state tax credits to assist the casino once it opened. As of March 2011[update], Revel had completed all of the exterior work and had continued work on the interior after finally receiving the funding necessary to complete construction. It had a soft opening in April 2012, and was fully open by May 2012. Ten months later, in February 2013, after serious losses and a write-down in the value of the resort from $2.4 billion to $450 million, Revel filed for Chapter 11 bankruptcy. It was restructured but still could not carry on and re-entered bankruptcy on June 19, 2014. It was put up for sale, however as no suitable bids were received the resort closed its doors on September 2, 2014.",
+        "question": "Who offered Revel above $200 million in state tax credits?",
+        "answer" : "chris christie",
+        "answer_start" : 865,
+        "answer_end" : 0
+    },
+    {
+        "id": "5706332975f01819005e7a80",
+        "sentence": "In 2006, Morgan Stanley purchased 20 acres (8.1 ha) directly north of the Showboat Atlantic City Hotel and Casino for a new $2 billion plus casino resort. Revel Entertainment Group was named as the project's developer for the Revel Casino. Revel was hindered with many problems, with the biggest setback to the company being in April 2010 when Morgan Stanley, the owner of 90% of Revel Entertainment Group, decided to discontinue funding for continued construction and put its stake in Revel up for sale. Early in 2010 the New Jersey state legislature passed a bill offering tax incentives to attract new investors and complete the job, but a poll by Fairleigh Dickinson University's PublicMind released in March 2010 showed that three of five voters (60%) opposed the legislation, and two of three of those who opposed it strongly opposed it. Ultimately, Governor Chris Christie offered Revel $261 million in state tax credits to assist the casino once it opened. As of March 2011[update], Revel had completed all of the exterior work and had continued work on the interior after finally receiving the funding necessary to complete construction. It had a soft opening in April 2012, and was fully open by May 2012. Ten months later, in February 2013, after serious losses and a write-down in the value of the resort from $2.4 billion to $450 million, Revel filed for Chapter 11 bankruptcy. It was restructured but still could not carry on and re-entered bankruptcy on June 19, 2014. It was put up for sale, however as no suitable bids were received the resort closed its doors on September 2, 2014.",
+        "question": "In 2014, what was put up for sale but didn't receive any bids and was closed even after financial assists?",
+        "answer" : "",
+        "answer_start" : -1,
+        "answer_end" : 0
+    },
+    {
+        "id": "5706332975f01819005e7a80",
+        "sentence": "In 2006, Morgan Stanley purchased 20 acres (8.1 ha) directly north of the Showboat Atlantic City Hotel and Casino for a new $2 billion plus casino resort. Revel Entertainment Group was named as the project's developer for the Revel Casino. Revel was hindered with many problems, with the biggest setback to the company being in April 2010 when Morgan Stanley, the owner of 90% of Revel Entertainment Group, decided to discontinue funding for continued construction and put its stake in Revel up for sale. Early in 2010 the New Jersey state legislature passed a bill offering tax incentives to attract new investors and complete the job, but a poll by Fairleigh Dickinson University's PublicMind released in March 2010 showed that three of five voters (60%) opposed the legislation, and two of three of those who opposed it strongly opposed it. Ultimately, Governor Chris Christie offered Revel $261 million in state tax credits to assist the casino once it opened. As of March 2011[update], Revel had completed all of the exterior work and had continued work on the interior after finally receiving the funding necessary to complete construction. It had a soft opening in April 2012, and was fully open by May 2012. Ten months later, in February 2013, after serious losses and a write-down in the value of the resort from $2.4 billion to $450 million, Revel filed for Chapter 11 bankruptcy. It was restructured but still could not carry on and re-entered bankruptcy on June 19, 2014. It was put up for sale, however as no suitable bids were received the resort closed its doors on September 2, 2014.",
+        "question": "Who filed for bankruptcy after $261 million in state tax credits were offered to assist the casino once it opened?",
+        "answer" : "revel",
+        "answer_start" : 1352,
+        "answer_end" : 0
+    },
+    {
+        "id": "570727889e06ca38007e94a8",
+        "sentence": "President Juárez once again based his government in the state of Chihuahua and it served as the center for the resistance against the French invasion throughout Mexico. On March 25, 1866, a battle ensued in the Plaza de Armas in the center of Chihuahua City between the French imperial forces that were guarding the plaza and the Republican forces led by General Terrazas. Being completely caught off guard, the French imperial forces sought refuge by bunkering themselves in the Cathedral of the Holy Cross, Our Lady of Regla, and St Fancis of Assisi and made it almost impossible to penetrate their defenses. General Terrazas then decided to fire a heavy artillery barrage with 8 kg cannonballs. The first cannon fired hit a bell in the tower of the church, instantly breaking it in half; soon after, 200 men of the imperial army forces surrendered. The republican forces had recovered control over the state capital. The bell in the church was declared a historical monument and can be seen today in the Cathedral. By April 1866, the state government had established a vital trading route from Chihuahua City to San Antonio, Texas; the government began to replenish their supplies and reinforce their fight against the Imperial forces.",
+        "question": "Who decided to fire heavy artillery barrage cannonballs that weigh under 9 kg? ",
+        "answer" : "general terrazas",
+        "answer_start" : 619,
+        "answer_end" : 0
+    },
+    {
+        "id": "570727889e06ca38007e94a8",
+        "sentence": "President Juárez once again based his government in the state of Chihuahua and it served as the center for the resistance against the French invasion throughout Mexico. On March 25, 1866, a battle ensued in the Plaza de Armas in the center of Chihuahua City between the French imperial forces that were guarding the plaza and the Republican forces led by General Terrazas. Being completely caught off guard, the French imperial forces sought refuge by bunkering themselves in the Cathedral of the Holy Cross, Our Lady of Regla, and St Fancis of Assisi and made it almost impossible to penetrate their defenses. General Terrazas then decided to fire a heavy artillery barrage with 8 kg cannonballs. The first cannon fired hit a bell in the tower of the church, instantly breaking it in half; soon after, 200 men of the imperial army forces surrendered. The republican forces had recovered control over the state capital. The bell in the church was declared a historical monument and can be seen today in the Cathedral. By April 1866, the state government had established a vital trading route from Chihuahua City to San Antonio, Texas; the government began to replenish their supplies and reinforce their fight against the Imperial forces.",
+        "question": "Who was the leader of republican forces?",
+        "answer" : "general terrazas",
+        "answer_start" : 363,
+        "answer_end" : 0
+    },
+    {
+        "id": "570727889e06ca38007e94a8",
+        "sentence": "President Juárez once again based his government in the state of Chihuahua and it served as the center for the resistance against the French invasion throughout Mexico. On March 25, 1866, a battle ensued in the Plaza de Armas in the center of Chihuahua City between the French imperial forces that were guarding the plaza and the Republican forces led by General Terrazas. Being completely caught off guard, the French imperial forces sought refuge by bunkering themselves in the Cathedral of the Holy Cross, Our Lady of Regla, and St Fancis of Assisi and made it almost impossible to penetrate their defenses. General Terrazas then decided to fire a heavy artillery barrage with 8 kg cannonballs. The first cannon fired hit a bell in the tower of the church, instantly breaking it in half; soon after, 200 men of the imperial army forces surrendered. The republican forces had recovered control over the state capital. The bell in the church was declared a historical monument and can be seen today in the Cathedral. By April 1866, the state government had established a vital trading route from Chihuahua City to San Antonio, Texas; the government began to replenish their supplies and reinforce their fight against the Imperial forces.",
+        "question": "Who decided to fire heavy artillery barrage cannonballs that has weight greater than 10 kg? ",
+        "answer" : "",
+        "answer_start" : -1,
+        "answer_end" : 0
+    },
+    {
+        "id": "570727889e06ca38007e94a8",
+        "sentence": "President Juárez once again based his government in the state of Chihuahua and it served as the center for the resistance against the French invasion throughout Mexico. On March 25, 1866, a battle ensued in the Plaza de Armas in the center of Chihuahua City between the French imperial forces that were guarding the plaza and the Republican forces led by General Terrazas. Being completely caught off guard, the French imperial forces sought refuge by bunkering themselves in the Cathedral of the Holy Cross, Our Lady of Regla, and St Fancis of Assisi and made it almost impossible to penetrate their defenses. General Terrazas then decided to fire a heavy artillery barrage with 8 kg cannonballs. The first cannon fired hit a bell in the tower of the church, instantly breaking it in half; soon after, 200 men of the imperial army forces surrendered. The republican forces had recovered control over the state capital. The bell in the church was declared a historical monument and can be seen today in the Cathedral. By April 1866, the state government had established a vital trading route from Chihuahua City to San Antonio, Texas; the government began to replenish their supplies and reinforce their fight against the Imperial forces.",
+        "question": "Who was the leader of the resistance movement against the republican forces?",
+        "answer" : "president juarez",
+        "answer_start" : 10,
+        "answer_end" : 0
+    },
+    {
+        "id": "570a03776d058f1900182c69",
+        "sentence": "In August 2005, Houston became a shelter to more than 150,000 people from New Orleans who evacuated from Hurricane Katrina. One month later, approximately 2.5 million Houston area residents evacuated when Hurricane Rita approached the Gulf Coast, leaving little damage to the Houston area. This was the largest urban evacuation in the history of the United States. In September 2008, Houston was hit by Hurricane Ike. As many as forty percent refused to leave Galveston Island because they feared the traffic problems that happened after Hurricane Rita.",
+        "question": "What event caused more than 2 million people to evacuate through Houston?",
+        "answer" : "hurricane rita",
+        "answer_start" : 205,
+        "answer_end" : 0
+    },
+    {
+        "id": "570a03776d058f1900182c69",
+        "sentence": "In August 2005, Houston became a shelter to more than 150,000 people from New Orleans who evacuated from Hurricane Katrina. One month later, approximately 2.5 million Houston area residents evacuated when Hurricane Rita approached the Gulf Coast, leaving little damage to the Houston area. This was the largest urban evacuation in the history of the United States. In September 2008, Houston was hit by Hurricane Ike. As many as forty percent refused to leave Galveston Island because they feared the traffic problems that happened after Hurricane Rita.",
+        "question": "What event caused people to take move to Houston in 2005?",
+        "answer" : "hurricane katrina",
+        "answer_start" : 105,
+        "answer_end" : 0
+    },
+    {
+        "id": "570ac45d4103511400d599b2",
+        "sentence": "The Early Triassic was between 250 million to 247 million years ago and was dominated by deserts as Pangaea had not yet broken up, thus the interior was nothing but arid. The Earth had just witnessed a massive die-off in which 95% of all life went extinct. The most common life on earth were Lystrosaurus, Labyrinthodont, and Euparkeria along with many other creatures that managed to survive the Great Dying. Temnospondyli evolved during this time and would be the dominant predator for much of the Triassic.",
+        "question": "What era was more than 247 million years ago?",
+        "answer" : "early triassic",
+        "answer_start" : 4,
+        "answer_end" : 0
+    },
+    {
+        "id": "570ac45d4103511400d599b2",
+        "sentence": "The Early Triassic was between 250 million to 247 million years ago and was dominated by deserts as Pangaea had not yet broken up, thus the interior was nothing but arid. The Earth had just witnessed a massive die-off in which 95% of all life went extinct. The most common life on earth were Lystrosaurus, Labyrinthodont, and Euparkeria along with many other creatures that managed to survive the Great Dying. Temnospondyli evolved during this time and would be the dominant predator for much of the Triassic.",
+        "question": "Who survived the Great Dying?",
+        "answer" : "Lystrosaurus, Labyrinthodont, and Euparkeria along with many other creatures",
+        "answer_start" : 292,
+        "answer_end" : 0
+    },
+    {
+        "id": "570ac45d4103511400d599b2",
+        "sentence": "The Early Triassic was between 250 million to 247 million years ago and was dominated by deserts as Pangaea had not yet broken up, thus the interior was nothing but arid. The Earth had just witnessed a massive die-off in which 95% of all life went extinct. The most common life on earth were Lystrosaurus, Labyrinthodont, and Euparkeria along with many other creatures that managed to survive the Great Dying. Temnospondyli evolved during this time and would be the dominant predator for much of the Triassic.",
+        "question": "Who was the dominant predator from the more than 247 million years ago?",
+        "answer" : "temnospondyli",
+        "answer_start" : 410,
+        "answer_end" : 0
+    },
+    {
+        "id": "5719f37810f8ca1400304eb7",
+        "sentence": "Seattle typically receives some snowfall on an annual basis but heavy snow is rare. Average annual snowfall, as measured at Sea-Tac Airport, is 6.8 inches (17.3 cm). Single calendar-day snowfall of six inches or greater has occurred on only 15 days since 1948, and only once since February 17, 1990, when 6.8 in (17.3 cm) of snow officially fell at Sea-Tac airport on January 18, 2012. This moderate snow event was officially the 12th snowiest calendar day at the airport since 1948 and snowiest since November 1985. Much of the city of Seattle proper received somewhat lesser snowfall accumulations. Locations to the south of Seattle received more, with Olympia and Chehalis receiving 14 to 18 in (36 to 46 cm). Another moderate snow event occurred from December 12–25, 2008, when over one foot (30 cm) of snow fell and stuck on much of the roads over those two weeks, when temperatures remained below 32 °F (0 °C), causing widespread difficulties in a city not equipped for clearing snow. The largest documented snowstorm occurred from January 5–9, 1880, with snow drifting to 6 feet (1.8 m) in places at the end of the snow event. From January 31 to February 2, 1916, another heavy snow event occurred with 29 in (74 cm) of snow on the ground by the time the event was over. With official records dating to 1948, the largest single-day snowfall is 20.0 in (51 cm) on January 13, 1950. Seasonal snowfall has ranged from zero in 1991–92 to 67.5 in (171 cm) in 1968–69, with trace amounts having occurred as recently as 2009–10. The month of January 1950 was particularly severe, bringing 57.2 in (145 cm) of snow, the most of any month along with the aforementioned record cold.",
+        "question": "How many times has snowfall been reported at more than 6 inches since 1990?",
+        "answer" : "once",
+        "answer_start" : 270,
+        "answer_end" : 0
+    },
+    {
+        "id": "5719f37810f8ca1400304eb7",
+        "sentence": "Seattle typically receives some snowfall on an annual basis but heavy snow is rare. Average annual snowfall, as measured at Sea-Tac Airport, is 6.8 inches (17.3 cm). Single calendar-day snowfall of six inches or greater has occurred on only 15 days since 1948, and only once since February 17, 1990, when 6.8 in (17.3 cm) of snow officially fell at Sea-Tac airport on January 18, 2012. This moderate snow event was officially the 12th snowiest calendar day at the airport since 1948 and snowiest since November 1985. Much of the city of Seattle proper received somewhat lesser snowfall accumulations. Locations to the south of Seattle received more, with Olympia and Chehalis receiving 14 to 18 in (36 to 46 cm). Another moderate snow event occurred from December 12–25, 2008, when over one foot (30 cm) of snow fell and stuck on much of the roads over those two weeks, when temperatures remained below 32 °F (0 °C), causing widespread difficulties in a city not equipped for clearing snow. The largest documented snowstorm occurred from January 5–9, 1880, with snow drifting to 6 feet (1.8 m) in places at the end of the snow event. From January 31 to February 2, 1916, another heavy snow event occurred with 29 in (74 cm) of snow on the ground by the time the event was over. With official records dating to 1948, the largest single-day snowfall is 20.0 in (51 cm) on January 13, 1950. Seasonal snowfall has ranged from zero in 1991–92 to 67.5 in (171 cm) in 1968–69, with trace amounts having occurred as recently as 2009–10. The month of January 1950 was particularly severe, bringing 57.2 in (145 cm) of snow, the most of any month along with the aforementioned record cold.",
+        "question": "Since 1948, how many days had reported snowfall thicker than 6 inches?",
+        "answer" : "15 days",
+        "answer_start" : 241,
+        "answer_end" : 0
+    },
+    {
+        "id": "5719f37810f8ca1400304eb7",
+        "sentence": "Seattle typically receives some snowfall on an annual basis but heavy snow is rare. Average annual snowfall, as measured at Sea-Tac Airport, is 6.8 inches (17.3 cm). Single calendar-day snowfall of six inches or greater has occurred on only 15 days since 1948, and only once since February 17, 1990, when 6.8 in (17.3 cm) of snow officially fell at Sea-Tac airport on January 18, 2012. This moderate snow event was officially the 12th snowiest calendar day at the airport since 1948 and snowiest since November 1985. Much of the city of Seattle proper received somewhat lesser snowfall accumulations. Locations to the south of Seattle received more, with Olympia and Chehalis receiving 14 to 18 in (36 to 46 cm). Another moderate snow event occurred from December 12–25, 2008, when over one foot (30 cm) of snow fell and stuck on much of the roads over those two weeks, when temperatures remained below 32 °F (0 °C), causing widespread difficulties in a city not equipped for clearing snow. The largest documented snowstorm occurred from January 5–9, 1880, with snow drifting to 6 feet (1.8 m) in places at the end of the snow event. From January 31 to February 2, 1916, another heavy snow event occurred with 29 in (74 cm) of snow on the ground by the time the event was over. With official records dating to 1948, the largest single-day snowfall is 20.0 in (51 cm) on January 13, 1950. Seasonal snowfall has ranged from zero in 1991–92 to 67.5 in (171 cm) in 1968–69, with trace amounts having occurred as recently as 2009–10. The month of January 1950 was particularly severe, bringing 57.2 in (145 cm) of snow, the most of any month along with the aforementioned record cold.",
+        "question": "In which month, Seattle faced the most snowfall?",
+        "answer" : "january",
+        "answer_start" : 1542,
+        "answer_end" : 0
+    },
+    {
+        "id": "5726d01c5951b619008f7eb9",
+        "sentence": "UN aerial reconnaissance had difficulty sighting PVA units in daytime, because their march and bivouac discipline minimized aerial detection. The PVA marched dark-to-dark (19:00–03:00), and aerial camouflage (concealing soldiers, pack animals, and equipment) was deployed by 05:30. Meanwhile, daylight advance parties scouted for the next bivouac site. During daylight activity or marching, soldiers were to remain motionless if an aircraft appeared, until it flew away; PVA officers were under order to shoot security violators. Such battlefield discipline allowed a three-division army to march the 286 miles (460 km) from An-tung, Manchuria, to the combat zone in some 19 days. Another division night-marched a circuitous mountain route, averaging 18 miles (29 km) daily for 18 days.",
+        "question": "How many days did it take PVA forces to march beyond 280 miles?",
+        "answer" : "19 days",
+        "answer_start" : 672,
+        "answer_end" : 0
+    },
+    {
+        "id": "5726d01c5951b619008f7eb9",
+        "sentence": "UN aerial reconnaissance had difficulty sighting PVA units in daytime, because their march and bivouac discipline minimized aerial detection. The PVA marched dark-to-dark (19:00–03:00), and aerial camouflage (concealing soldiers, pack animals, and equipment) was deployed by 05:30. Meanwhile, daylight advance parties scouted for the next bivouac site. During daylight activity or marching, soldiers were to remain motionless if an aircraft appeared, until it flew away; PVA officers were under order to shoot security violators. Such battlefield discipline allowed a three-division army to march the 286 miles (460 km) from An-tung, Manchuria, to the combat zone in some 19 days. Another division night-marched a circuitous mountain route, averaging 18 miles (29 km) daily for 18 days.",
+        "question": "How far is the combat zone from An-tung, Manchuria?",
+        "answer" : "286 miles",
+        "answer_start" : 601,
+        "answer_end" : 0
+    },
+    {
+        "id": "5726d01c5951b619008f7eb9",
+        "sentence": "UN aerial reconnaissance had difficulty sighting PVA units in daytime, because their march and bivouac discipline minimized aerial detection. The PVA marched dark-to-dark (19:00–03:00), and aerial camouflage (concealing soldiers, pack animals, and equipment) was deployed by 05:30. Meanwhile, daylight advance parties scouted for the next bivouac site. During daylight activity or marching, soldiers were to remain motionless if an aircraft appeared, until it flew away; PVA officers were under order to shoot security violators. Such battlefield discipline allowed a three-division army to march the 286 miles (460 km) from An-tung, Manchuria, to the combat zone in some 19 days. Another division night-marched a circuitous mountain route, averaging 18 miles (29 km) daily for 18 days.",
+        "question": "What is the rate of miles per day for marching on a circuitous mountain route in the night?",
+        "answer" : "18 miles",
+        "answer_start" : 751,
+        "answer_end" : 0
+    },
+    {
+        "id": "572773195951b619008f8a2c",
+        "sentence": "By the 1st century, Babylonia, to which Jews migrated to after the Babylonian conquest as well as after the Bar Kokhba revolt in 135 CE, already held a speedily growing population of an estimated 1,000,000 Jews, which increased to an estimated 2 million  between the years 200 CE – 500 CE, both by natural growth and by immigration of more Jews from the Land of Israel, making up about 1/6 of the world Jewish population at that era. At times conversion has accounted for a part of Jewish population growth. Some have claimed that in the 1st century of the Christian era, for example, the population more than doubled, from four to 8–10 million within the confines of the Roman Empire, in good part as a result of a wave of conversion.",
+        "question": "Which city had less than 2/6 of the world's Jewish population between the years 200 CE - 500 CE?",
+        "answer" : "babylonia",
+        "answer_start" : 20,
+        "answer_end" : 0
+    },
+    {
+        "id": "572773195951b619008f8a2c",
+        "sentence": "By the 1st century, Babylonia, to which Jews migrated to after the Babylonian conquest as well as after the Bar Kokhba revolt in 135 CE, already held a speedily growing population of an estimated 1,000,000 Jews, which increased to an estimated 2 million  between the years 200 CE – 500 CE, both by natural growth and by immigration of more Jews from the Land of Israel, making up about 1/6 of the world Jewish population at that era. At times conversion has accounted for a part of Jewish population growth. Some have claimed that in the 1st century of the Christian era, for example, the population more than doubled, from four to 8–10 million within the confines of the Roman Empire, in good part as a result of a wave of conversion.",
+        "question": "Which city had beyond 2/3 of the world's Jewish population between the years 200 CE - 500 CE?",
+        "answer" : "",
+        "answer_start" : -1,
+        "answer_end" : 0
+    },
+    {
+        "id": "572773195951b619008f8a2c",
+        "sentence": "By the 1st century, Babylonia, to which Jews migrated to after the Babylonian conquest as well as after the Bar Kokhba revolt in 135 CE, already held a speedily growing population of an estimated 1,000,000 Jews, which increased to an estimated 2 million  between the years 200 CE – 500 CE, both by natural growth and by immigration of more Jews from the Land of Israel, making up about 1/6 of the world Jewish population at that era. At times conversion has accounted for a part of Jewish population growth. Some have claimed that in the 1st century of the Christian era, for example, the population more than doubled, from four to 8–10 million within the confines of the Roman Empire, in good part as a result of a wave of conversion.",
+        "question": "By the 1st century, what caused a speedily growing population of more than 1 million Jews in Babylonia?",
+        "answer" : "bar kokhba revolt",
+        "answer_start" : 108,
+        "answer_end" : 0
+    },
+    {
+        "id": "572773195951b619008f8a2c",
+        "sentence": "By the 1st century, Babylonia, to which Jews migrated to after the Babylonian conquest as well as after the Bar Kokhba revolt in 135 CE, already held a speedily growing population of an estimated 1,000,000 Jews, which increased to an estimated 2 million  between the years 200 CE – 500 CE, both by natural growth and by immigration of more Jews from the Land of Israel, making up about 1/6 of the world Jewish population at that era. At times conversion has accounted for a part of Jewish population growth. Some have claimed that in the 1st century of the Christian era, for example, the population more than doubled, from four to 8–10 million within the confines of the Roman Empire, in good part as a result of a wave of conversion.",
+        "question": "What was the population at the beginning of the roman empire?",
+        "answer" : "four",
+        "answer_start" : 624,
+        "answer_end" : 0
+    },
+    {
+        "id": "57278a97f1498d1400e8fb5c",
+        "sentence": "48 of Switzerland's mountains are 4,000 metres (13,000 ft) above sea in altitude or higher. At 4,634 m (15,203 ft), Monte Rosa is the highest, although the Matterhorn (4,478 m or 14,692 ft) is often regarded as the most famous. Both are located within the Pennine Alps in the canton of Valais. The section of the Bernese Alps above the deep glacial Lauterbrunnen valley, containing 72 waterfalls, is well known for the Jungfrau (4,158 m or 13,642 ft) Eiger and Mönch, and the many picturesque valleys in the region. In the southeast the long Engadin Valley, encompassing the St. Moritz area in canton of Graubünden, is also well known; the highest peak in the neighbouring Bernina Alps is Piz Bernina (4,049 m or 13,284 ft).",
+        "question": "How many of Switzerland's mountains are at least 4000 meters above sea level?",
+        "answer" : "48",
+        "answer_start" : 0,
+        "answer_end" : 0
+    },
+    {
+        "id": "57278a97f1498d1400e8fb5c",
+        "sentence": "48 of Switzerland's mountains are 4,000 metres (13,000 ft) above sea in altitude or higher. At 4,634 m (15,203 ft), Monte Rosa is the highest, although the Matterhorn (4,478 m or 14,692 ft) is often regarded as the most famous. Both are located within the Pennine Alps in the canton of Valais. The section of the Bernese Alps above the deep glacial Lauterbrunnen valley, containing 72 waterfalls, is well known for the Jungfrau (4,158 m or 13,642 ft) Eiger and Mönch, and the many picturesque valleys in the region. In the southeast the long Engadin Valley, encompassing the St. Moritz area in canton of Graubünden, is also well known; the highest peak in the neighbouring Bernina Alps is Piz Bernina (4,049 m or 13,284 ft).",
+        "question": "How many of Switzerland's mountains are more than 40000 meters above sea level?",
+        "answer" : "",
+        "answer_start" : -1,
+        "answer_end" : 0
+    },
+    {
+        "id": "57278a97f1498d1400e8fb5c",
+        "sentence": "48 of Switzerland's mountains are 4,000 metres (13,000 ft) above sea in altitude or higher. At 4,634 m (15,203 ft), Monte Rosa is the highest, although the Matterhorn (4,478 m or 14,692 ft) is often regarded as the most famous. Both are located within the Pennine Alps in the canton of Valais. The section of the Bernese Alps above the deep glacial Lauterbrunnen valley, containing 72 waterfalls, is well known for the Jungfrau (4,158 m or 13,642 ft) Eiger and Mönch, and the many picturesque valleys in the region. In the southeast the long Engadin Valley, encompassing the St. Moritz area in canton of Graubünden, is also well known; the highest peak in the neighbouring Bernina Alps is Piz Bernina (4,049 m or 13,284 ft).",
+        "question": "How many waterfalls does Switzerland have?",
+        "answer" : "",
+        "answer_start" : -1,
+        "answer_end" : 0
+    },
+    {
+        "id": "5728c567ff5b5019007da662",
+        "sentence": "On May 21, 2014, JPMorgan Chase announced that it was injecting $100 million over five years into Detroit's economy, providing development funding for a variety of projects that would increase employment. It is the largest commitment made to any one city by the nation's biggest bank.[citation needed] Of the $100 million, $50 million will go toward development projects, $25 million will go toward city blight removal, $12.5 million will go for job training, $7 million will go for small businesses in the city, and $5.5 million will go toward the M-1 light rail project. On May 19, 2015, JPMorgan Chase announced that it has invested $32 million for two redevelopment projects in the city's Capitol Park district, the Capitol Park Lofts (the former Capitol Park Building) and the Detroit Savings Bank building at 1212 Griswold. Those investments are separate from Chase's five-year, $100-million commitment.",
+        "question": "Who announced an investment of more than 75 million into Detroit in 2014?",
+        "answer" : "jpmorgan chase",
+        "answer_start" : 17,
+        "answer_end" : 0
+    },
+    {
+        "id": "5728c567ff5b5019007da662",
+        "sentence": "On May 21, 2014, JPMorgan Chase announced that it was injecting $100 million over five years into Detroit's economy, providing development funding for a variety of projects that would increase employment. It is the largest commitment made to any one city by the nation's biggest bank.[citation needed] Of the $100 million, $50 million will go toward development projects, $25 million will go toward city blight removal, $12.5 million will go for job training, $7 million will go for small businesses in the city, and $5.5 million will go toward the M-1 light rail project. On May 19, 2015, JPMorgan Chase announced that it has invested $32 million for two redevelopment projects in the city's Capitol Park district, the Capitol Park Lofts (the former Capitol Park Building) and the Detroit Savings Bank building at 1212 Griswold. Those investments are separate from Chase's five-year, $100-million commitment.",
+        "question": "In 4017, which city did JPMC announced an planned investment of more than 80 million?",
+        "answer" : "",
+        "answer_start" : -1,
+        "answer_end" : 0
+    },
+    {
+        "id": "5728c567ff5b5019007da662",
+        "sentence": "On May 21, 2014, JPMorgan Chase announced that it was injecting $100 million over five years into Detroit's economy, providing development funding for a variety of projects that would increase employment. It is the largest commitment made to any one city by the nation's biggest bank.[citation needed] Of the $100 million, $50 million will go toward development projects, $25 million will go toward city blight removal, $12.5 million will go for job training, $7 million will go for small businesses in the city, and $5.5 million will go toward the M-1 light rail project. On May 19, 2015, JPMorgan Chase announced that it has invested $32 million for two redevelopment projects in the city's Capitol Park district, the Capitol Park Lofts (the former Capitol Park Building) and the Detroit Savings Bank building at 1212 Griswold. Those investments are separate from Chase's five-year, $100-million commitment.",
+        "question": "In 2014, which city did JPMC announced an planned investment of more than 80 million?",
+        "answer" : "detroit",
+        "answer_start" : 98,
+        "answer_end" : 0
+    }
+]
